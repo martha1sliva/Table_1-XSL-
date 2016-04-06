@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" href="lab7.xslt"?>
+	<channel>
+		<title>The Nerdist</title>
+		<pubDate>Wed, 15 Oct 2014 07:00:00 +0000</pubDate>
+		<lastBuildDate>Wed, 15 Oct 2014 07:02:12 +0000</lastBuildDate>
+		<generator>Libsyn WebEngine 2.0</generator>
+		<link>http://nerdist.com</link>
+		<language>en</language>
+		<copyright><![CDATA[]]></copyright>
+		<docs>http://nerdist.com</docs>
+		<managingEditor>stuff@nerdist.com (stuff@nerdist.com)</managingEditor>
+		<description><![CDATA[Nerdy nerdness comedy podcast w/ Chris Hardwick, Jonah Ray & Matt Mira.]]></description>
+		<image>
+			<url>http://static.libsyn.com/p/assets/7/b/7/d/7b7da1a7fd9726a6/nerdistlogo.jpg</url>
+			<title>The Nerdist</title>
+			<link><![CDATA[http://nerdist.com]]></link>
+		</image>
+			<description><![CDATA[<p>Ron Perlman had so much fun the first time on the podcast, he had come back for seconds! He and Chris talk about the upcoming movie The Book of Life, everything that is happening in the world that inspired Ron to write a memoir and his goal to never take anything in life for granted. They also come up with the million dollar idea of Shitstagram!</p>]]></description>
+			<enclosure length="33259428" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/nerdist/Nerdist_584_-_Ron_Perlman_Returns.mp3" />
+		<item>
+			<title>Hairy Otter</title>
+			<pubDate>Mon, 13 Oct 2014 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c9bee1895085b540c2068dc38df38809]]></guid>
+			<link><![CDATA[http://nerdist.libsyn.com/hairy-otter]]></link>
+			<description><![CDATA[Enjoy some lovely hostful goodness! Chris and Matt had a fun trip to Home Depot together, the guys talk about furniture shopping more than they ever thought they would, Jonah was dressed in a Sasquatch prosthetic, Matt plays a clip from the show Ripley's Believe It Or Not? and Chris asks Matt what how he would react if Dave Matthews Band did a cover of the Frasier theme song!]]></description>
+			<enclosure length="28920728" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/nerdist/Nerdist_583_-_Hairy_Otter.mp3" />
+					</item>
+		<item>
+			<title>Dax Shepard</title>
+			<pubDate>Fri, 10 Oct 2014 06:25:30 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[03c95bcdf5a0299d83b6fa34731c75be]]></guid>
+			<link><![CDATA[http://nerdist.libsyn.com/dax-shepard]]></link>
+			<description><![CDATA[Dax Shepard is on the podcast! He and Chris discuss each of their experiences getting sober, what is like being dyslexic in school when he was a kid, having a second kid with his wife, Kristen Bell, and his newest movies This Is Where I Leave You and The Judge (both in theaters now!). He also talks about the huge popularity of the "Cha-Ching!" Rally's commercials in the early nineties and then learning a couple years ago that it was Seth Green in those commercials and he got to go to the Super Bowl for it!]]></description>
+			<enclosure length="43826999" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/nerdist/Nerdist_582_-_Dax_Shepard.mp3" />
+					</item>
+		<item>
+			<title>Martin Starr</title>
+			<pubDate>Wed, 08 Oct 2014 14:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[5f189e41d9b48b08dfb89202895530f9]]></guid>
+			<link><![CDATA[http://nerdist.libsyn.com/martin-starr]]></link>
+			<description><![CDATA[The hilarious Martin Starr sits down with Chris to talk about acting, creativity and more! He talks about growing up in LA without the intent of being an actor, taking roles he finds interesting, that elaborate dick joke on Silicon Valley,&nbsp; and his new horror film Dead Snow 2: Red vs. Dead. Also, Chris refuses to believe that the iPhone 6 Plus won't fit in Martin's pocket!]]></description>
+			<enclosure length="31653768" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/nerdist/Nerdist_581_-_Martin_Starr.mp3" />
+					</item>
+		<item>
+			<title>Spike Feresten</title>
+			<pubDate>Mon, 06 Oct 2014 21:44:39 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[bdbe312b8ecd57a20f481d9cb276bd75]]></guid>
+			<link><![CDATA[http://nerdist.libsyn.com/spike-feresten]]></link>
+			<description><![CDATA[Writer /host Spike Feresten chats with Chris about his first Emmy experience, starting his career as an intern at NBC and tells numerous stories from his time as writer on Seinfeld and Late Show with David Letterman. He also talks about his new show <em><a href="http://tv.esquire.com/shows/car-matchmaker">Car </a>Matchmaker </em>on Esquire Network and the art of pairing someone with the perfect car!]]></description>
+			<enclosure length="34567428" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/nerdist/Nerdist_580_-_Spike_Feresten.mp3" />
+					</item>
+		<item>
+			<title>Rose McGowan</title>
+			<pubDate>Fri, 03 Oct 2014 23:05:04 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3d3f0a122b5aa46b60cc11dd6151ba2a]]></guid>
+			<link><![CDATA[http://nerdist.libsyn.com/rose-mcgowan]]></link>
+			<description><![CDATA[The talented Rose McGowan talks to Chris about why she doesn't like super hero movies, why she wanted to stop acting and what she has been doing since and her directorial debut of the short Dawn. She also goes into great detail about her interesting and very non-traditional upbringing. She ran away from home at 13 years old and has lived a fascinating live ever since!]]></description>
+			<enclosure length="32822623" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/nerdist/Nerdist_579_-_Rose_McGowan.mp3" />
+					</item>
+		<item>
+			<title>Kevin Heffernan and Steve Lemme</title>
+			<pubDate>Wed, 01 Oct 2014 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e267d397539fb28f3b8bf9ea23057964]]></guid>
+			<link><![CDATA[http://nerdist.libsyn.com/kevin-heffernan-and-steve-lemme]]></link>
+			<description><![CDATA[Kevin Heffernan and Steve Lemme (Super Troopers, Beerfest) hang out with Chris to talk about the embarrassing TV shows they secretly love, they discuss their starts in the comedy world, Chris keeps changing his accent and they talk about sealing the deal on Super Troopers 2! They also talk about their podcast Chewin' It where they talk to guests and old friends and do solo episodes talking about the details of filmmaking and how they came up with ideas for their movies!]]></description>
+			<enclosure length="37217167" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/nerdist/Nerdist_578_-_Kevin_Heffernan_and_Steve_Lemme.mp3" />
+					</item>
+	</channel>
